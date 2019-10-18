@@ -1,6 +1,6 @@
 # Projects
 
-https://github.com/guxlar/HellOfMod1
+[HellOfMod1](https://github.com/guxlar/HellOfMod1)
 
-https://github.com/uyke/survivotronkit
+[SurvivotronKit](https://github.com/uyke/survivotronkit)
 
