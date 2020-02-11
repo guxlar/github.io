@@ -1,3 +1,3 @@
 # guxlar.github.io
 
-By guxlar
+by guxlar
