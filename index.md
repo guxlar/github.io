@@ -12,6 +12,6 @@
 
 ## social
 
-* [LinkeIn](https://uy.linkedin.com/in/guxlar/)
+* [LinkedIn](https://uy.linkedin.com/in/guxlar/)
 * [Twitter: @guxlar](https://twitter.com/guxlar)
 * [Instagram: @guxlar](https://www.instagram.com/guxlar/)
