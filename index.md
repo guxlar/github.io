@@ -1,6 +1,6 @@
 ![guxlar](https://avatars2.githubusercontent.com/u/28395744?s=120&v=4)
 
-## hobbie projects
+## hobby projects
 
 * [HellOfMod1](https://github.com/guxlar/HellOfMod1)
 * [SurvivotronKit](https://github.com/uyke/survivotronkit)
@@ -12,5 +12,6 @@
 
 ## social
 
+* [LinkeIn](https://uy.linkedin.com/in/guxlar/)
 * [Twitter: @guxlar](https://twitter.com/guxlar)
 * [Instagram: @guxlar](https://www.instagram.com/guxlar/)
